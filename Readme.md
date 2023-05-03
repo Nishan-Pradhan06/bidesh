@@ -1,0 +1,1 @@
+This repository contains the code for a website that provides comprehensive information and resources for Nepali students who are interested in studying abroad. The site is designed to help students navigate the often complex process of obtaining a student visa and pursuing education abroad.
